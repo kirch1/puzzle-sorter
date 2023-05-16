@@ -7,12 +7,12 @@ Work in progress computer vision project that finds and sorts edge puzzle pieces
 - Fusion 360 for 3D printed parts
 
 ### Sorting
-![](./assets/demo1.gif)
+![](./assets/sorting.gif)
 ---
 
 
 ### Detection
-![](./assets/demo2.gif)
+![](./assets/detection.gif)
 ---
 
 

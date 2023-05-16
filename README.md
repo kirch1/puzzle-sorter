@@ -3,7 +3,7 @@ Work in progress computer vision project that finds and sorts edge puzzle pieces
 
 - python
 - YOLOv8
-- Aduino
+- Arduino
 - Fusion 360 for 3D printed parts
 
 ### Sorting

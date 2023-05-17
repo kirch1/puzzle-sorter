@@ -1,5 +1,5 @@
 # Jigsaw Puzzle Edge Piece Sorter
-Work in progress computer vision project that finds and sorts edge puzzle pieces from a jigsw puzzle.
+Work in progress computer vision project that finds and sorts edge puzzle pieces from a jigsaw puzzle.
 
 - python
 - YOLOv8
